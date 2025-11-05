@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Veinsan
+# 👋 Hi, I'm Rian
 
 🎓 Information Systems & Technology Student | 📍 Bandung Institute of Technology  
 💻 Exploring Web3, Full-Stack Development, and AI Engineering  
@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 I’m a tech student passionate about building things that connect creativity and logic.  
-Currently learning **Backend Development** and exploring **AI applications** in the web ecosystem.  
+Currently learning **Backend Development** and exploring **Web 3** in the web ecosystem.  
 Interested in **Full-Stack Development** and how **Web3** can evolve user interaction on the internet.
 
 ---
@@ -48,19 +48,11 @@ Interested in **Full-Stack Development** and how **Web3** can evolve user intera
 
 ---
 
-## 🐍 Contribution Animation
-
 <picture>
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/veinsan/veinsan/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veinsan/veinsan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veinsan/veinsan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/veinsan/veinsan/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/riantamaputra)
-- 🌐 [Portfolio](https://veinsan.vercel.app)
-- 💬 [Instagram](https://www.instagram.com/rian.put_)
 
 ---
 
