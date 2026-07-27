@@ -107,4 +107,4 @@ I build full-stack web apps with **Next.js**, **TypeScript**, and **PostgreSQL**
 
 ### Know me more
 
-**[LinkedIn](https://www.linkedin.com/in/riantamaputra/) | [Portfolio](https://riantama.tech) | [Email](mailto:riantamaputra751@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/riantamaputra/) | [Portfolio](https://riantamaputra.tech) | [Email](mailto:riantamaputra751@gmail.com)**
