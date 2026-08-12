@@ -1,13 +1,9 @@
-# 👋🏻 Hey there!
+<!-- <img style="display: block; margin: 2rem auto; object-fit: cover; object-position: center center; width: 80vw; max-height: 10rem;" src="assets/bebop.gif" alt="Cowboy Bebop"/> -->
 
-Information Systems & Technology student @ Bandung Institute of Technology.  
-Focused on **Full-Stack Development**, **AI Engineering**, and **Data Science**.
+### Hey there 👋🏻
 
----
-
-## About Me
-
-I build full-stack web apps with **Next.js**, **TypeScript**, and **PostgreSQL**, and work on machine learning through data science competitions and AI-powered product features. Lately I've been focused on backend systems and ML engineering.
+Information Systems & Technology Student @ [**STEI ITB**](#). \
+Mainly interested in **Full-Stack Development**, **Data Science**, and **Artificial Intelligence**.
 
 ---
 
