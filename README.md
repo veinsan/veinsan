@@ -7,7 +7,7 @@ Mainly interested in **Full-Stack Development**, **Data Science**, and **Artific
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 #### Languages
 <div align="left">
