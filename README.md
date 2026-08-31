@@ -2,7 +2,7 @@
 
 ### Hey there 👋🏻
 
-Information Systems & Technology Student @ [**STEI ITB**](#). \
+AI Assistant at @ [**STEI ITB**](#). \
 Mainly interested in **Full-Stack Development**, **Data Science**, and **Artificial Intelligence**.
 
 ---
