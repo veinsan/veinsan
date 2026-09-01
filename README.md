@@ -2,7 +2,7 @@
 
 ### Hey there 👋🏻
 
-AI Assistant at @ [**STEI ITB**](#). \
+AI Laboratory Assistant at @ [**STEI ITB**](#). \
 Mainly interested in **Full-Stack Development**, **Data Science**, and **Artificial Intelligence**.
 
 ---
