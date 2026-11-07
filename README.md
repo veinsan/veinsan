@@ -1,14 +1,14 @@
 ### Hey there, I'm Riantama Putra 👋🏻
 
-I'm an **Information Systems and Technology student at Institut Teknologi Bandung (ITB)**, an **AI Laboratory Assistant at STEI ITB**, and the **Backend Lead at AIAA ITB**.
+I'm an **Information Systems and Technology student at Institut Teknologi Bandung (ITB)**, an **AI Laboratory Assistant at STEI ITB**.
 
 I enjoy building reliable backend systems and applying machine learning to real-world problems. My interests include **backend engineering, computer vision, tabular ML, and AI-powered applications**. I've worked on internal platforms, full-stack applications, and ML projects, with four podium finishes in data competitions.
 
-Some things I've worked on:
-- **AIAA ITB Internal ERP** — Leading backend development with NestJS and PostgreSQL. *(Internal project)*
-- [**HR & People Ops Command Center**](https://github.com/veinsan/hr-people-ops-command-center) — Multi-agent HR operations platform; AutoPilot Asia 2026 Grand Finalist.
-- [**BelajarDuluDek**](https://github.com/veinsan/belajarduludek) — AI-assisted learning platform built with Next.js and PostgreSQL.
-- [**Nimonscooked**](https://github.com/veinsan/nimonscooked) — Cooperative cooking game built with Java and LibGDX.
+Some competition highlights:
+- 🥇 **1st Place** | INFEST XII 2026 Data Science
+- 🥇 **1st Place** | BDC Statistics Explore 2026
+- 🥈 **2nd Place** | DATASCAPE 2026
+- 🥉 **3rd Place** | PRS ITS 2026 Data Analysis Competition (International)
 
 ### Tech Stack
 
@@ -20,6 +20,7 @@ Some things I've worked on:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white" alt="SQL" />
 </p>
 
@@ -57,4 +58,4 @@ Some things I've worked on:
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/veinsan/veinsan/output/pacman-contribution-graph.svg" />
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/riantamaputra/) · [Portfolio](https://riantamaputra.tech) · [Email](mailto:riantamaputra751@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/riantamaputra/) | [Portfolio](https://riantamaputra.tech) | [Email](mailto:riantamaputra751@gmail.com)
