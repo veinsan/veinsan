@@ -8,7 +8,8 @@ Some competition highlights:
 - 🥇 **1st Place** | INFEST XII 2026 Data Science
 - 🥇 **1st Place** | BDC Statistics Explore 2026
 - 🥈 **2nd Place** | DATASCAPE 2026
-- 🥉 **3rd Place** | PRS ITS 2026 Data Analysis Competition (International)
+- 🥉 **3rd Place** | PRS ITS 2026 Data Analysis Competition
+- 🏅 **1st Honorable Mention** | HoloMine HOLOGY 9.0
 
 ### Tech Stack
 
