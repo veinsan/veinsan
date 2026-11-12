@@ -1,4 +1,4 @@
-### Hey there, I'm Riantama Putra 👋🏻
+### 👋 Hi, I'm Rian
 
 I'm an **Information Systems and Technology student at Institut Teknologi Bandung (ITB)**, an **AI Laboratory Assistant at STEI ITB**.
 
